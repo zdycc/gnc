@@ -31,7 +31,7 @@ $(function () {
         else if (password == null || password == '') {
             alert("请输入密码");
         }
-        else if (username == 'zzy' && password == '20040104'){
+        else if (username == 'gnc' && password == '20240110'){
             alert("登陆成功");
             window.location.href = "heart.html";
         }
